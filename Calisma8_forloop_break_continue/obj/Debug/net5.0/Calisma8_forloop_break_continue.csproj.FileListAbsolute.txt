@@ -1,0 +1,16 @@
+C:\Users\kasif\Desktop\Calismalar\Calisma8_forloop_break_continue\bin\Debug\net5.0\Calisma8_forloop_break_continue.exe
+C:\Users\kasif\Desktop\Calismalar\Calisma8_forloop_break_continue\bin\Debug\net5.0\Calisma8_forloop_break_continue.deps.json
+C:\Users\kasif\Desktop\Calismalar\Calisma8_forloop_break_continue\bin\Debug\net5.0\Calisma8_forloop_break_continue.runtimeconfig.json
+C:\Users\kasif\Desktop\Calismalar\Calisma8_forloop_break_continue\bin\Debug\net5.0\Calisma8_forloop_break_continue.runtimeconfig.dev.json
+C:\Users\kasif\Desktop\Calismalar\Calisma8_forloop_break_continue\bin\Debug\net5.0\Calisma8_forloop_break_continue.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma8_forloop_break_continue\bin\Debug\net5.0\ref\Calisma8_forloop_break_continue.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma8_forloop_break_continue\bin\Debug\net5.0\Calisma8_forloop_break_continue.pdb
+C:\Users\kasif\Desktop\Calismalar\Calisma8_forloop_break_continue\obj\Debug\net5.0\Calisma8_forloop_break_continue.csproj.AssemblyReference.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma8_forloop_break_continue\obj\Debug\net5.0\Calisma8_forloop_break_continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasif\Desktop\Calismalar\Calisma8_forloop_break_continue\obj\Debug\net5.0\Calisma8_forloop_break_continue.AssemblyInfoInputs.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma8_forloop_break_continue\obj\Debug\net5.0\Calisma8_forloop_break_continue.AssemblyInfo.cs
+C:\Users\kasif\Desktop\Calismalar\Calisma8_forloop_break_continue\obj\Debug\net5.0\Calisma8_forloop_break_continue.csproj.CoreCompileInputs.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma8_forloop_break_continue\obj\Debug\net5.0\Calisma8_forloop_break_continue.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma8_forloop_break_continue\obj\Debug\net5.0\ref\Calisma8_forloop_break_continue.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma8_forloop_break_continue\obj\Debug\net5.0\Calisma8_forloop_break_continue.pdb
+C:\Users\kasif\Desktop\Calismalar\Calisma8_forloop_break_continue\obj\Debug\net5.0\Calisma8_forloop_break_continue.genruntimeconfig.cache
