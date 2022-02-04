@@ -1,0 +1,16 @@
+C:\Users\kasif\Desktop\Calismalar\Calisma12_Metodlar1\bin\Debug\net5.0\Calisma12_Metodlar1.exe
+C:\Users\kasif\Desktop\Calismalar\Calisma12_Metodlar1\bin\Debug\net5.0\Calisma12_Metodlar1.deps.json
+C:\Users\kasif\Desktop\Calismalar\Calisma12_Metodlar1\bin\Debug\net5.0\Calisma12_Metodlar1.runtimeconfig.json
+C:\Users\kasif\Desktop\Calismalar\Calisma12_Metodlar1\bin\Debug\net5.0\Calisma12_Metodlar1.runtimeconfig.dev.json
+C:\Users\kasif\Desktop\Calismalar\Calisma12_Metodlar1\bin\Debug\net5.0\Calisma12_Metodlar1.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma12_Metodlar1\bin\Debug\net5.0\ref\Calisma12_Metodlar1.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma12_Metodlar1\bin\Debug\net5.0\Calisma12_Metodlar1.pdb
+C:\Users\kasif\Desktop\Calismalar\Calisma12_Metodlar1\obj\Debug\net5.0\Calisma12_Metodlar1.csproj.AssemblyReference.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma12_Metodlar1\obj\Debug\net5.0\Calisma12_Metodlar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasif\Desktop\Calismalar\Calisma12_Metodlar1\obj\Debug\net5.0\Calisma12_Metodlar1.AssemblyInfoInputs.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma12_Metodlar1\obj\Debug\net5.0\Calisma12_Metodlar1.AssemblyInfo.cs
+C:\Users\kasif\Desktop\Calismalar\Calisma12_Metodlar1\obj\Debug\net5.0\Calisma12_Metodlar1.csproj.CoreCompileInputs.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma12_Metodlar1\obj\Debug\net5.0\Calisma12_Metodlar1.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma12_Metodlar1\obj\Debug\net5.0\ref\Calisma12_Metodlar1.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma12_Metodlar1\obj\Debug\net5.0\Calisma12_Metodlar1.pdb
+C:\Users\kasif\Desktop\Calismalar\Calisma12_Metodlar1\obj\Debug\net5.0\Calisma12_Metodlar1.genruntimeconfig.cache
