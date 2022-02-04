@@ -1,0 +1,16 @@
+C:\Users\kasif\Desktop\Calismalar\Calisma11_ArraySinifiMetodlari\bin\Debug\net5.0\Calisma11_ArraySinifiMetodlari.exe
+C:\Users\kasif\Desktop\Calismalar\Calisma11_ArraySinifiMetodlari\bin\Debug\net5.0\Calisma11_ArraySinifiMetodlari.deps.json
+C:\Users\kasif\Desktop\Calismalar\Calisma11_ArraySinifiMetodlari\bin\Debug\net5.0\Calisma11_ArraySinifiMetodlari.runtimeconfig.json
+C:\Users\kasif\Desktop\Calismalar\Calisma11_ArraySinifiMetodlari\bin\Debug\net5.0\Calisma11_ArraySinifiMetodlari.runtimeconfig.dev.json
+C:\Users\kasif\Desktop\Calismalar\Calisma11_ArraySinifiMetodlari\bin\Debug\net5.0\Calisma11_ArraySinifiMetodlari.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma11_ArraySinifiMetodlari\bin\Debug\net5.0\ref\Calisma11_ArraySinifiMetodlari.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma11_ArraySinifiMetodlari\bin\Debug\net5.0\Calisma11_ArraySinifiMetodlari.pdb
+C:\Users\kasif\Desktop\Calismalar\Calisma11_ArraySinifiMetodlari\obj\Debug\net5.0\Calisma11_ArraySinifiMetodlari.csproj.AssemblyReference.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma11_ArraySinifiMetodlari\obj\Debug\net5.0\Calisma11_ArraySinifiMetodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasif\Desktop\Calismalar\Calisma11_ArraySinifiMetodlari\obj\Debug\net5.0\Calisma11_ArraySinifiMetodlari.AssemblyInfoInputs.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma11_ArraySinifiMetodlari\obj\Debug\net5.0\Calisma11_ArraySinifiMetodlari.AssemblyInfo.cs
+C:\Users\kasif\Desktop\Calismalar\Calisma11_ArraySinifiMetodlari\obj\Debug\net5.0\Calisma11_ArraySinifiMetodlari.csproj.CoreCompileInputs.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma11_ArraySinifiMetodlari\obj\Debug\net5.0\Calisma11_ArraySinifiMetodlari.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma11_ArraySinifiMetodlari\obj\Debug\net5.0\ref\Calisma11_ArraySinifiMetodlari.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma11_ArraySinifiMetodlari\obj\Debug\net5.0\Calisma11_ArraySinifiMetodlari.pdb
+C:\Users\kasif\Desktop\Calismalar\Calisma11_ArraySinifiMetodlari\obj\Debug\net5.0\Calisma11_ArraySinifiMetodlari.genruntimeconfig.cache
