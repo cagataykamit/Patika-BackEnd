@@ -1,0 +1,16 @@
+C:\Users\kasif\Desktop\Calismalar\Calisma13_Metod_Overloading\bin\Debug\net5.0\Calisma13_Metod_Overloading.exe
+C:\Users\kasif\Desktop\Calismalar\Calisma13_Metod_Overloading\bin\Debug\net5.0\Calisma13_Metod_Overloading.deps.json
+C:\Users\kasif\Desktop\Calismalar\Calisma13_Metod_Overloading\bin\Debug\net5.0\Calisma13_Metod_Overloading.runtimeconfig.json
+C:\Users\kasif\Desktop\Calismalar\Calisma13_Metod_Overloading\bin\Debug\net5.0\Calisma13_Metod_Overloading.runtimeconfig.dev.json
+C:\Users\kasif\Desktop\Calismalar\Calisma13_Metod_Overloading\bin\Debug\net5.0\Calisma13_Metod_Overloading.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma13_Metod_Overloading\bin\Debug\net5.0\ref\Calisma13_Metod_Overloading.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma13_Metod_Overloading\bin\Debug\net5.0\Calisma13_Metod_Overloading.pdb
+C:\Users\kasif\Desktop\Calismalar\Calisma13_Metod_Overloading\obj\Debug\net5.0\Calisma13_Metod_Overloading.csproj.AssemblyReference.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma13_Metod_Overloading\obj\Debug\net5.0\Calisma13_Metod_Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasif\Desktop\Calismalar\Calisma13_Metod_Overloading\obj\Debug\net5.0\Calisma13_Metod_Overloading.AssemblyInfoInputs.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma13_Metod_Overloading\obj\Debug\net5.0\Calisma13_Metod_Overloading.AssemblyInfo.cs
+C:\Users\kasif\Desktop\Calismalar\Calisma13_Metod_Overloading\obj\Debug\net5.0\Calisma13_Metod_Overloading.csproj.CoreCompileInputs.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma13_Metod_Overloading\obj\Debug\net5.0\Calisma13_Metod_Overloading.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma13_Metod_Overloading\obj\Debug\net5.0\ref\Calisma13_Metod_Overloading.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma13_Metod_Overloading\obj\Debug\net5.0\Calisma13_Metod_Overloading.pdb
+C:\Users\kasif\Desktop\Calismalar\Calisma13_Metod_Overloading\obj\Debug\net5.0\Calisma13_Metod_Overloading.genruntimeconfig.cache
