@@ -1,0 +1,16 @@
+C:\Users\kasif\Desktop\Calismalar\Calisma14_Recursif_Extensiyon_Metotlar\bin\Debug\net5.0\Calisma14_Recursif_Extensiyon_Metotlar.exe
+C:\Users\kasif\Desktop\Calismalar\Calisma14_Recursif_Extensiyon_Metotlar\bin\Debug\net5.0\Calisma14_Recursif_Extensiyon_Metotlar.deps.json
+C:\Users\kasif\Desktop\Calismalar\Calisma14_Recursif_Extensiyon_Metotlar\bin\Debug\net5.0\Calisma14_Recursif_Extensiyon_Metotlar.runtimeconfig.json
+C:\Users\kasif\Desktop\Calismalar\Calisma14_Recursif_Extensiyon_Metotlar\bin\Debug\net5.0\Calisma14_Recursif_Extensiyon_Metotlar.runtimeconfig.dev.json
+C:\Users\kasif\Desktop\Calismalar\Calisma14_Recursif_Extensiyon_Metotlar\bin\Debug\net5.0\Calisma14_Recursif_Extensiyon_Metotlar.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma14_Recursif_Extensiyon_Metotlar\bin\Debug\net5.0\ref\Calisma14_Recursif_Extensiyon_Metotlar.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma14_Recursif_Extensiyon_Metotlar\bin\Debug\net5.0\Calisma14_Recursif_Extensiyon_Metotlar.pdb
+C:\Users\kasif\Desktop\Calismalar\Calisma14_Recursif_Extensiyon_Metotlar\obj\Debug\net5.0\Calisma14_Recursif_Extensiyon_Metotlar.csproj.AssemblyReference.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma14_Recursif_Extensiyon_Metotlar\obj\Debug\net5.0\Calisma14_Recursif_Extensiyon_Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasif\Desktop\Calismalar\Calisma14_Recursif_Extensiyon_Metotlar\obj\Debug\net5.0\Calisma14_Recursif_Extensiyon_Metotlar.AssemblyInfoInputs.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma14_Recursif_Extensiyon_Metotlar\obj\Debug\net5.0\Calisma14_Recursif_Extensiyon_Metotlar.AssemblyInfo.cs
+C:\Users\kasif\Desktop\Calismalar\Calisma14_Recursif_Extensiyon_Metotlar\obj\Debug\net5.0\Calisma14_Recursif_Extensiyon_Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma14_Recursif_Extensiyon_Metotlar\obj\Debug\net5.0\Calisma14_Recursif_Extensiyon_Metotlar.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma14_Recursif_Extensiyon_Metotlar\obj\Debug\net5.0\ref\Calisma14_Recursif_Extensiyon_Metotlar.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma14_Recursif_Extensiyon_Metotlar\obj\Debug\net5.0\Calisma14_Recursif_Extensiyon_Metotlar.pdb
+C:\Users\kasif\Desktop\Calismalar\Calisma14_Recursif_Extensiyon_Metotlar\obj\Debug\net5.0\Calisma14_Recursif_Extensiyon_Metotlar.genruntimeconfig.cache
