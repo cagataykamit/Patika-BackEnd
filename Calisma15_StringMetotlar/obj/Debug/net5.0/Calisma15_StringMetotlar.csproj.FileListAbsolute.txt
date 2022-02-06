@@ -1,0 +1,16 @@
+C:\Users\kasif\Desktop\Calismalar\Calisma15_StringMetotlar\bin\Debug\net5.0\Calisma15_StringMetotlar.exe
+C:\Users\kasif\Desktop\Calismalar\Calisma15_StringMetotlar\bin\Debug\net5.0\Calisma15_StringMetotlar.deps.json
+C:\Users\kasif\Desktop\Calismalar\Calisma15_StringMetotlar\bin\Debug\net5.0\Calisma15_StringMetotlar.runtimeconfig.json
+C:\Users\kasif\Desktop\Calismalar\Calisma15_StringMetotlar\bin\Debug\net5.0\Calisma15_StringMetotlar.runtimeconfig.dev.json
+C:\Users\kasif\Desktop\Calismalar\Calisma15_StringMetotlar\bin\Debug\net5.0\Calisma15_StringMetotlar.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma15_StringMetotlar\bin\Debug\net5.0\ref\Calisma15_StringMetotlar.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma15_StringMetotlar\bin\Debug\net5.0\Calisma15_StringMetotlar.pdb
+C:\Users\kasif\Desktop\Calismalar\Calisma15_StringMetotlar\obj\Debug\net5.0\Calisma15_StringMetotlar.csproj.AssemblyReference.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma15_StringMetotlar\obj\Debug\net5.0\Calisma15_StringMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasif\Desktop\Calismalar\Calisma15_StringMetotlar\obj\Debug\net5.0\Calisma15_StringMetotlar.AssemblyInfoInputs.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma15_StringMetotlar\obj\Debug\net5.0\Calisma15_StringMetotlar.AssemblyInfo.cs
+C:\Users\kasif\Desktop\Calismalar\Calisma15_StringMetotlar\obj\Debug\net5.0\Calisma15_StringMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma15_StringMetotlar\obj\Debug\net5.0\Calisma15_StringMetotlar.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma15_StringMetotlar\obj\Debug\net5.0\ref\Calisma15_StringMetotlar.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma15_StringMetotlar\obj\Debug\net5.0\Calisma15_StringMetotlar.pdb
+C:\Users\kasif\Desktop\Calismalar\Calisma15_StringMetotlar\obj\Debug\net5.0\Calisma15_StringMetotlar.genruntimeconfig.cache
