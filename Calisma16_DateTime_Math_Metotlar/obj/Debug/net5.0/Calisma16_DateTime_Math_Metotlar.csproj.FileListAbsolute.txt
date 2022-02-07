@@ -1,0 +1,16 @@
+C:\Users\kasif\Desktop\Calismalar\Calisma16_DateTime_Math_Metotlar\bin\Debug\net5.0\Calisma16_DateTime_Math_Metotlar.exe
+C:\Users\kasif\Desktop\Calismalar\Calisma16_DateTime_Math_Metotlar\bin\Debug\net5.0\Calisma16_DateTime_Math_Metotlar.deps.json
+C:\Users\kasif\Desktop\Calismalar\Calisma16_DateTime_Math_Metotlar\bin\Debug\net5.0\Calisma16_DateTime_Math_Metotlar.runtimeconfig.json
+C:\Users\kasif\Desktop\Calismalar\Calisma16_DateTime_Math_Metotlar\bin\Debug\net5.0\Calisma16_DateTime_Math_Metotlar.runtimeconfig.dev.json
+C:\Users\kasif\Desktop\Calismalar\Calisma16_DateTime_Math_Metotlar\bin\Debug\net5.0\Calisma16_DateTime_Math_Metotlar.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma16_DateTime_Math_Metotlar\bin\Debug\net5.0\ref\Calisma16_DateTime_Math_Metotlar.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma16_DateTime_Math_Metotlar\bin\Debug\net5.0\Calisma16_DateTime_Math_Metotlar.pdb
+C:\Users\kasif\Desktop\Calismalar\Calisma16_DateTime_Math_Metotlar\obj\Debug\net5.0\Calisma16_DateTime_Math_Metotlar.csproj.AssemblyReference.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma16_DateTime_Math_Metotlar\obj\Debug\net5.0\Calisma16_DateTime_Math_Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasif\Desktop\Calismalar\Calisma16_DateTime_Math_Metotlar\obj\Debug\net5.0\Calisma16_DateTime_Math_Metotlar.AssemblyInfoInputs.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma16_DateTime_Math_Metotlar\obj\Debug\net5.0\Calisma16_DateTime_Math_Metotlar.AssemblyInfo.cs
+C:\Users\kasif\Desktop\Calismalar\Calisma16_DateTime_Math_Metotlar\obj\Debug\net5.0\Calisma16_DateTime_Math_Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma16_DateTime_Math_Metotlar\obj\Debug\net5.0\Calisma16_DateTime_Math_Metotlar.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma16_DateTime_Math_Metotlar\obj\Debug\net5.0\ref\Calisma16_DateTime_Math_Metotlar.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma16_DateTime_Math_Metotlar\obj\Debug\net5.0\Calisma16_DateTime_Math_Metotlar.pdb
+C:\Users\kasif\Desktop\Calismalar\Calisma16_DateTime_Math_Metotlar\obj\Debug\net5.0\Calisma16_DateTime_Math_Metotlar.genruntimeconfig.cache
