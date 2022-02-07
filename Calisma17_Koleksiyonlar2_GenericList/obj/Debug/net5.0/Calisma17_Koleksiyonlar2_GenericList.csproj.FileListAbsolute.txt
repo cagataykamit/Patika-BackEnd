@@ -1,0 +1,16 @@
+C:\Users\kasif\Desktop\Calismalar\Calisma17_Koleksiyonlar2_GenericList\bin\Debug\net5.0\Calisma17_Koleksiyonlar2_GenericList.exe
+C:\Users\kasif\Desktop\Calismalar\Calisma17_Koleksiyonlar2_GenericList\bin\Debug\net5.0\Calisma17_Koleksiyonlar2_GenericList.deps.json
+C:\Users\kasif\Desktop\Calismalar\Calisma17_Koleksiyonlar2_GenericList\bin\Debug\net5.0\Calisma17_Koleksiyonlar2_GenericList.runtimeconfig.json
+C:\Users\kasif\Desktop\Calismalar\Calisma17_Koleksiyonlar2_GenericList\bin\Debug\net5.0\Calisma17_Koleksiyonlar2_GenericList.runtimeconfig.dev.json
+C:\Users\kasif\Desktop\Calismalar\Calisma17_Koleksiyonlar2_GenericList\bin\Debug\net5.0\Calisma17_Koleksiyonlar2_GenericList.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma17_Koleksiyonlar2_GenericList\bin\Debug\net5.0\ref\Calisma17_Koleksiyonlar2_GenericList.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma17_Koleksiyonlar2_GenericList\bin\Debug\net5.0\Calisma17_Koleksiyonlar2_GenericList.pdb
+C:\Users\kasif\Desktop\Calismalar\Calisma17_Koleksiyonlar2_GenericList\obj\Debug\net5.0\Calisma17_Koleksiyonlar2_GenericList.csproj.AssemblyReference.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma17_Koleksiyonlar2_GenericList\obj\Debug\net5.0\Calisma17_Koleksiyonlar2_GenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasif\Desktop\Calismalar\Calisma17_Koleksiyonlar2_GenericList\obj\Debug\net5.0\Calisma17_Koleksiyonlar2_GenericList.AssemblyInfoInputs.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma17_Koleksiyonlar2_GenericList\obj\Debug\net5.0\Calisma17_Koleksiyonlar2_GenericList.AssemblyInfo.cs
+C:\Users\kasif\Desktop\Calismalar\Calisma17_Koleksiyonlar2_GenericList\obj\Debug\net5.0\Calisma17_Koleksiyonlar2_GenericList.csproj.CoreCompileInputs.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma17_Koleksiyonlar2_GenericList\obj\Debug\net5.0\Calisma17_Koleksiyonlar2_GenericList.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma17_Koleksiyonlar2_GenericList\obj\Debug\net5.0\ref\Calisma17_Koleksiyonlar2_GenericList.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma17_Koleksiyonlar2_GenericList\obj\Debug\net5.0\Calisma17_Koleksiyonlar2_GenericList.pdb
+C:\Users\kasif\Desktop\Calismalar\Calisma17_Koleksiyonlar2_GenericList\obj\Debug\net5.0\Calisma17_Koleksiyonlar2_GenericList.genruntimeconfig.cache
