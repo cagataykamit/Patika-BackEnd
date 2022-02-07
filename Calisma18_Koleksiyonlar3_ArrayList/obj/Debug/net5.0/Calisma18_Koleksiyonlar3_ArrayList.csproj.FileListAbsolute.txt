@@ -1,0 +1,16 @@
+C:\Users\kasif\Desktop\Calismalar\Calisma18_Koleksiyonlar3_ArrayList\bin\Debug\net5.0\Calisma18_Koleksiyonlar3_ArrayList.exe
+C:\Users\kasif\Desktop\Calismalar\Calisma18_Koleksiyonlar3_ArrayList\bin\Debug\net5.0\Calisma18_Koleksiyonlar3_ArrayList.deps.json
+C:\Users\kasif\Desktop\Calismalar\Calisma18_Koleksiyonlar3_ArrayList\bin\Debug\net5.0\Calisma18_Koleksiyonlar3_ArrayList.runtimeconfig.json
+C:\Users\kasif\Desktop\Calismalar\Calisma18_Koleksiyonlar3_ArrayList\bin\Debug\net5.0\Calisma18_Koleksiyonlar3_ArrayList.runtimeconfig.dev.json
+C:\Users\kasif\Desktop\Calismalar\Calisma18_Koleksiyonlar3_ArrayList\bin\Debug\net5.0\Calisma18_Koleksiyonlar3_ArrayList.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma18_Koleksiyonlar3_ArrayList\bin\Debug\net5.0\ref\Calisma18_Koleksiyonlar3_ArrayList.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma18_Koleksiyonlar3_ArrayList\bin\Debug\net5.0\Calisma18_Koleksiyonlar3_ArrayList.pdb
+C:\Users\kasif\Desktop\Calismalar\Calisma18_Koleksiyonlar3_ArrayList\obj\Debug\net5.0\Calisma18_Koleksiyonlar3_ArrayList.csproj.AssemblyReference.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma18_Koleksiyonlar3_ArrayList\obj\Debug\net5.0\Calisma18_Koleksiyonlar3_ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasif\Desktop\Calismalar\Calisma18_Koleksiyonlar3_ArrayList\obj\Debug\net5.0\Calisma18_Koleksiyonlar3_ArrayList.AssemblyInfoInputs.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma18_Koleksiyonlar3_ArrayList\obj\Debug\net5.0\Calisma18_Koleksiyonlar3_ArrayList.AssemblyInfo.cs
+C:\Users\kasif\Desktop\Calismalar\Calisma18_Koleksiyonlar3_ArrayList\obj\Debug\net5.0\Calisma18_Koleksiyonlar3_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma18_Koleksiyonlar3_ArrayList\obj\Debug\net5.0\Calisma18_Koleksiyonlar3_ArrayList.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma18_Koleksiyonlar3_ArrayList\obj\Debug\net5.0\ref\Calisma18_Koleksiyonlar3_ArrayList.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma18_Koleksiyonlar3_ArrayList\obj\Debug\net5.0\Calisma18_Koleksiyonlar3_ArrayList.pdb
+C:\Users\kasif\Desktop\Calismalar\Calisma18_Koleksiyonlar3_ArrayList\obj\Debug\net5.0\Calisma18_Koleksiyonlar3_ArrayList.genruntimeconfig.cache
