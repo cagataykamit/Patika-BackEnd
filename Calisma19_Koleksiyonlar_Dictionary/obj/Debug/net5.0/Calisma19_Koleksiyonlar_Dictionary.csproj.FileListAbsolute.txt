@@ -1,0 +1,16 @@
+C:\Users\kasif\Desktop\Calismalar\Calisma19_Koleksiyonlar_Dictionary\bin\Debug\net5.0\Calisma19_Koleksiyonlar_Dictionary.exe
+C:\Users\kasif\Desktop\Calismalar\Calisma19_Koleksiyonlar_Dictionary\bin\Debug\net5.0\Calisma19_Koleksiyonlar_Dictionary.deps.json
+C:\Users\kasif\Desktop\Calismalar\Calisma19_Koleksiyonlar_Dictionary\bin\Debug\net5.0\Calisma19_Koleksiyonlar_Dictionary.runtimeconfig.json
+C:\Users\kasif\Desktop\Calismalar\Calisma19_Koleksiyonlar_Dictionary\bin\Debug\net5.0\Calisma19_Koleksiyonlar_Dictionary.runtimeconfig.dev.json
+C:\Users\kasif\Desktop\Calismalar\Calisma19_Koleksiyonlar_Dictionary\bin\Debug\net5.0\Calisma19_Koleksiyonlar_Dictionary.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma19_Koleksiyonlar_Dictionary\bin\Debug\net5.0\ref\Calisma19_Koleksiyonlar_Dictionary.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma19_Koleksiyonlar_Dictionary\bin\Debug\net5.0\Calisma19_Koleksiyonlar_Dictionary.pdb
+C:\Users\kasif\Desktop\Calismalar\Calisma19_Koleksiyonlar_Dictionary\obj\Debug\net5.0\Calisma19_Koleksiyonlar_Dictionary.csproj.AssemblyReference.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma19_Koleksiyonlar_Dictionary\obj\Debug\net5.0\Calisma19_Koleksiyonlar_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasif\Desktop\Calismalar\Calisma19_Koleksiyonlar_Dictionary\obj\Debug\net5.0\Calisma19_Koleksiyonlar_Dictionary.AssemblyInfoInputs.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma19_Koleksiyonlar_Dictionary\obj\Debug\net5.0\Calisma19_Koleksiyonlar_Dictionary.AssemblyInfo.cs
+C:\Users\kasif\Desktop\Calismalar\Calisma19_Koleksiyonlar_Dictionary\obj\Debug\net5.0\Calisma19_Koleksiyonlar_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma19_Koleksiyonlar_Dictionary\obj\Debug\net5.0\Calisma19_Koleksiyonlar_Dictionary.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma19_Koleksiyonlar_Dictionary\obj\Debug\net5.0\ref\Calisma19_Koleksiyonlar_Dictionary.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma19_Koleksiyonlar_Dictionary\obj\Debug\net5.0\Calisma19_Koleksiyonlar_Dictionary.pdb
+C:\Users\kasif\Desktop\Calismalar\Calisma19_Koleksiyonlar_Dictionary\obj\Debug\net5.0\Calisma19_Koleksiyonlar_Dictionary.genruntimeconfig.cache
