@@ -1,0 +1,16 @@
+C:\Users\kasif\Desktop\Calismalar\Clisma21_ErişimBelirleyiciler\obj\Debug\net5.0\Clisma21_ErişimBelirleyiciler.csproj.AssemblyReference.cache
+C:\Users\kasif\Desktop\Calismalar\Clisma21_ErişimBelirleyiciler\obj\Debug\net5.0\Clisma21_ErişimBelirleyiciler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasif\Desktop\Calismalar\Clisma21_ErişimBelirleyiciler\obj\Debug\net5.0\Clisma21_ErişimBelirleyiciler.AssemblyInfoInputs.cache
+C:\Users\kasif\Desktop\Calismalar\Clisma21_ErişimBelirleyiciler\obj\Debug\net5.0\Clisma21_ErişimBelirleyiciler.AssemblyInfo.cs
+C:\Users\kasif\Desktop\Calismalar\Clisma21_ErişimBelirleyiciler\obj\Debug\net5.0\Clisma21_ErişimBelirleyiciler.csproj.CoreCompileInputs.cache
+C:\Users\kasif\Desktop\Calismalar\Clisma21_ErişimBelirleyiciler\bin\Debug\net5.0\Clisma21_ErişimBelirleyiciler.exe
+C:\Users\kasif\Desktop\Calismalar\Clisma21_ErişimBelirleyiciler\bin\Debug\net5.0\Clisma21_ErişimBelirleyiciler.deps.json
+C:\Users\kasif\Desktop\Calismalar\Clisma21_ErişimBelirleyiciler\bin\Debug\net5.0\Clisma21_ErişimBelirleyiciler.runtimeconfig.json
+C:\Users\kasif\Desktop\Calismalar\Clisma21_ErişimBelirleyiciler\bin\Debug\net5.0\Clisma21_ErişimBelirleyiciler.runtimeconfig.dev.json
+C:\Users\kasif\Desktop\Calismalar\Clisma21_ErişimBelirleyiciler\bin\Debug\net5.0\Clisma21_ErişimBelirleyiciler.dll
+C:\Users\kasif\Desktop\Calismalar\Clisma21_ErişimBelirleyiciler\bin\Debug\net5.0\ref\Clisma21_ErişimBelirleyiciler.dll
+C:\Users\kasif\Desktop\Calismalar\Clisma21_ErişimBelirleyiciler\bin\Debug\net5.0\Clisma21_ErişimBelirleyiciler.pdb
+C:\Users\kasif\Desktop\Calismalar\Clisma21_ErişimBelirleyiciler\obj\Debug\net5.0\Clisma21_ErişimBelirleyiciler.dll
+C:\Users\kasif\Desktop\Calismalar\Clisma21_ErişimBelirleyiciler\obj\Debug\net5.0\ref\Clisma21_ErişimBelirleyiciler.dll
+C:\Users\kasif\Desktop\Calismalar\Clisma21_ErişimBelirleyiciler\obj\Debug\net5.0\Clisma21_ErişimBelirleyiciler.pdb
+C:\Users\kasif\Desktop\Calismalar\Clisma21_ErişimBelirleyiciler\obj\Debug\net5.0\Clisma21_ErişimBelirleyiciler.genruntimeconfig.cache
