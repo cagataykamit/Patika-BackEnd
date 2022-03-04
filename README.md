@@ -1,2 +1,2 @@
-# PatikaCalismalar
+#Calismalar
 C#101
