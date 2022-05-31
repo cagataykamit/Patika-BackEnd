@@ -1,0 +1,16 @@
+C:\Users\kasif\Desktop\Calismalar\Calisma22-Encapsulation ve Property\bin\Debug\net5.0\Calisma22-Encapsulation ve Property.exe
+C:\Users\kasif\Desktop\Calismalar\Calisma22-Encapsulation ve Property\bin\Debug\net5.0\Calisma22-Encapsulation ve Property.deps.json
+C:\Users\kasif\Desktop\Calismalar\Calisma22-Encapsulation ve Property\bin\Debug\net5.0\Calisma22-Encapsulation ve Property.runtimeconfig.json
+C:\Users\kasif\Desktop\Calismalar\Calisma22-Encapsulation ve Property\bin\Debug\net5.0\Calisma22-Encapsulation ve Property.runtimeconfig.dev.json
+C:\Users\kasif\Desktop\Calismalar\Calisma22-Encapsulation ve Property\bin\Debug\net5.0\Calisma22-Encapsulation ve Property.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma22-Encapsulation ve Property\bin\Debug\net5.0\ref\Calisma22-Encapsulation ve Property.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma22-Encapsulation ve Property\bin\Debug\net5.0\Calisma22-Encapsulation ve Property.pdb
+C:\Users\kasif\Desktop\Calismalar\Calisma22-Encapsulation ve Property\obj\Debug\net5.0\Calisma22-Encapsulation ve Property.csproj.AssemblyReference.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma22-Encapsulation ve Property\obj\Debug\net5.0\Calisma22-Encapsulation ve Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasif\Desktop\Calismalar\Calisma22-Encapsulation ve Property\obj\Debug\net5.0\Calisma22-Encapsulation ve Property.AssemblyInfoInputs.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma22-Encapsulation ve Property\obj\Debug\net5.0\Calisma22-Encapsulation ve Property.AssemblyInfo.cs
+C:\Users\kasif\Desktop\Calismalar\Calisma22-Encapsulation ve Property\obj\Debug\net5.0\Calisma22-Encapsulation ve Property.csproj.CoreCompileInputs.cache
+C:\Users\kasif\Desktop\Calismalar\Calisma22-Encapsulation ve Property\obj\Debug\net5.0\Calisma22-Encapsulation ve Property.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma22-Encapsulation ve Property\obj\Debug\net5.0\ref\Calisma22-Encapsulation ve Property.dll
+C:\Users\kasif\Desktop\Calismalar\Calisma22-Encapsulation ve Property\obj\Debug\net5.0\Calisma22-Encapsulation ve Property.pdb
+C:\Users\kasif\Desktop\Calismalar\Calisma22-Encapsulation ve Property\obj\Debug\net5.0\Calisma22-Encapsulation ve Property.genruntimeconfig.cache
